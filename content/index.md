@@ -5,6 +5,7 @@ Aquí aprenderás haciendo, construyendo cosas útiles, y colaborando en un ento
 
 Este Vault contiene tu guía de **onboarding**. Empieza explorando cada sección para prepararte.
 
+➡️ [[00 - Inicia Aquí]]  
 ➡️ [[01 - Herramientas]]  
 ➡️ [[02 - Cerebro Digital]]  
 ➡️ [[03 - Planificación del Trabajo]]  
