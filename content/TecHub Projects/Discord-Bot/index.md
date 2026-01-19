@@ -18,7 +18,7 @@ Desarrollar un bot de Discord que automatice tareas y mejore la experiencia de l
 ## Tecnologías y Herramientas
 
 *   **n8n:** Motor de flujos de trabajo.
-*   **OpenAI GPT-4o-mini:** Procesamiento de lenguaje.
+*   **Modelos LLM:** Procesamiento de lenguaje.
 *   **Discord Bot API:** Envío y gestión de mensajes.
 *   **LangChain Nodes:** Agentes y cadenas de IA.
 
